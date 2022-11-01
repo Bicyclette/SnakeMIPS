@@ -5,7 +5,7 @@ Snake game coded in MIPS assembly.<br/>
 Eat the candies and dodge the obstacles.
 <p/>
 
-<p>
+<p align="center">
 <img alt="snake" src="imgs/snake.png" width="800px"/>
 <p/>
 
