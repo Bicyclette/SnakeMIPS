@@ -1,8 +1,8 @@
 # SnakeMIPS
 
-<p>
+<p align="center">
 Snake game coded in MIPS assembly.<br/>
-Eat the candies and dodge the obstacles.
+Eat the candies (purple) and dodge the obstacles (red).
 <p/>
 
 <p align="center">
